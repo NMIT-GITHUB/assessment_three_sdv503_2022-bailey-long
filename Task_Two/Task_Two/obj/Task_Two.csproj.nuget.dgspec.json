@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj": {}
+    "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj": {
+    "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj",
+        "projectUniqueName": "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj",
         "projectName": "Task_Two",
-        "projectPath": "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj",
+        "projectPath": "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\Task_Two.csproj",
         "packagesPath": "C:\\Users\\Loopypew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\obj\\",
+        "outputPath": "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_Two\\Task_Two\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj": {}
+    "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj": {
+    "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj",
+        "projectUniqueName": "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj",
         "projectName": "Task_One",
-        "projectPath": "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj",
+        "projectPath": "C:\\Users\\Loopypew\\Source\\Repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\Task_One.csproj",
         "packagesPath": "C:\\Users\\Loopypew\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Loopypew\\source\\repos\\assessment_three_sdv503_2022-bailey-long\\Task_One\\Task_One\\obj\\",
         "projectStyle": "PackageReference",
